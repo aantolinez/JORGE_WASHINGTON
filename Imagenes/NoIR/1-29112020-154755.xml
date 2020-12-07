@@ -275,4 +275,28 @@
 			<ymax>1943</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>Maiz</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1575</ymin>
+			<xmax>166</xmax>
+			<ymax>1739</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Maiz</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2332</xmin>
+			<ymin>1</ymin>
+			<xmax>2444</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
 </annotation>
