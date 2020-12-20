@@ -1,7 +1,7 @@
 <annotation>
 	<folder>NoIR</folder>
 	<filename>1-06122020-105828.jpg</filename>
-	<path>/home/jcaceres/Documentos/Compartido/UNIR/TFM/fotos-adhair/NoIR/1-06122020-105828.jpg</path>
+	<path>/home/jcaceres/Documentos/Compartido/UNIR/TFM/GITHUB/Imagenes/NoIR/1-06122020-105828.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -189,6 +189,18 @@
 			<ymin>1714</ymin>
 			<xmax>2408</xmax>
 			<ymax>1924</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Maiz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1324</xmin>
+			<ymin>1510</ymin>
+			<xmax>1552</xmax>
+			<ymax>1707</ymax>
 		</bndbox>
 	</object>
 </annotation>

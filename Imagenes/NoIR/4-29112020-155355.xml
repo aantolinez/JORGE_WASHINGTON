@@ -1,7 +1,7 @@
 <annotation>
 	<folder>NoIR</folder>
 	<filename>4-29112020-155355.jpg</filename>
-	<path>/home/jcaceres/Documentos/Compartido/UNIR/TFM/fotos-adhair/NoIR/4-29112020-155355.jpg</path>
+	<path>/home/jcaceres/Documentos/Compartido/UNIR/TFM/GITHUB/Imagenes/NoIR/4-29112020-155355.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -666,9 +666,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1586</xmin>
-			<ymin>1035</ymin>
+			<ymin>1031</ymin>
 			<xmax>1949</xmax>
-			<ymax>1566</ymax>
+			<ymax>1562</ymax>
 		</bndbox>
 	</object>
 </annotation>
