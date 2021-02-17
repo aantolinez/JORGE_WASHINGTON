@@ -1,0 +1,26 @@
+<annotation>
+	<folder>enfermas</folder>
+	<filename>8img45.jpg</filename>
+	<path>/home/jcaceres/Documentos/Compartido/UNIR/TFM/GITHUB/Imagenes/enfermas/8img45.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3280</width>
+		<height>2464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>STEWART</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>839</ymin>
+			<xmax>1268</xmax>
+			<ymax>2464</ymax>
+		</bndbox>
+	</object>
+</annotation>

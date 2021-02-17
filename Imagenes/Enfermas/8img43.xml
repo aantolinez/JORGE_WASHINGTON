@@ -1,0 +1,26 @@
+<annotation>
+	<folder>enfermas</folder>
+	<filename>8img43.jpg</filename>
+	<path>/home/jcaceres/Documentos/Compartido/UNIR/TFM/GITHUB/Imagenes/enfermas/8img43.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3280</width>
+		<height>2464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TIZON</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>142</ymin>
+			<xmax>2666</xmax>
+			<ymax>1188</ymax>
+		</bndbox>
+	</object>
+</annotation>
